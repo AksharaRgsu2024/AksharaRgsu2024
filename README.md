@@ -1,8 +1,8 @@
-# Akshara Ravishankar's Portfolio
+# Akshara Ravishankar - Data Science/AI Portfolio
 
 ## About Me
 AI/ML Engineer with a background in Software Engineering, architected Agentic AI applications in healthcare, finance and climate change industries.
-I'm passionate about building impactful AI and Data Science solutions, and responsible innovations in Gen AI.
+I'm passionate about building impactful Data Science solutions, and responsible AI innovations.
 
 ## Technical skills 👩🏻‍💻
 - Programming - Python, C#, C++
