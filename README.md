@@ -5,10 +5,11 @@ AI/ML Engineer with a background in Software Engineering, passionate about build
 Architected Agentic AI applications in healthcare, finance and climate change industries.
 
 ## Technical skills
-Data Science- Machine Learning, Data Visualization, Tableau Dashboards
-AI - Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector databases, Neo4j
-Computer Vision - Image processing, OpenCV, Tensorflow
-Full stack development - CI/CD, Cloud platforms (Azure, Google Cloud), FastAPI, Streamlit
+- Programming - Python, C#, C++
+- Data Science- SQL, Machine Learning, Data Visualization, Tableau Dashboards
+- AI - Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector databases, Neo4j
+- Computer Vision - Image processing, OpenCV, Tensorflow
+- Full stack development - CI/CD, Cloud platforms (Azure, Google Cloud), FastAPI, Streamlit
 
 ## Projects
 **LLM Evaluation for AI in Education**   
