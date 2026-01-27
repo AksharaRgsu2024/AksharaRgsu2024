@@ -1,7 +1,7 @@
 # Akshara Ravishankar
 
 Hi👋 I'm Akshara, an AI/ML Engineer with a background in Software Engineering. I architected Agentic AI and Machine Learning applications in healthcare, finance and climate change industries.
-I'm passionate about building impactful Data Science solutions, and responsible AI innovations.
+I'm passionate about building impactful Data Science solutions and responsible AI innovations.
 
 ## Technical skills 👩🏻‍💻
 - Programming - Python, C#, C++
