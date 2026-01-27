@@ -6,10 +6,10 @@ Architected Agentic AI applications in healthcare, finance and climate change in
 
 ## Technical skills
 - Programming - Python, C#, C++
-- Data Science- SQL, Machine Learning, Data Visualization, Tableau Dashboards
-- AI - Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector databases, Neo4j
+- Data Science - SQL, Machine Learning, Data Visualization, Tableau Dashboards
+- AI - Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector databases, Neo4j, Neural networks
 - Computer Vision - Image processing, OpenCV, Tensorflow
-- Full stack development - CI/CD, Cloud platforms (Azure, Google Cloud), FastAPI, Streamlit
+- Full stack development - CI/CD, Cloud platforms (Azure, AWS, Google Cloud), FastAPI, Streamlit
 
 ## Projects
 **LLM Evaluation for AI in Education**   
