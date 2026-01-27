@@ -1,17 +1,17 @@
-# Akshara Ravishankar
+# Akshara Ravishankar's Portfolio
 
 ## About Me
-AI/ML Engineer with a background in Software Engineering, passionate about building impactful AI and Data Science solutions.
-Architected Agentic AI applications in healthcare, finance and climate change industries.
+AI/ML Engineer with a background in Software Engineering, architected Agentic AI applications in healthcare, finance and climate change industries.
+I'm passionate about building impactful AI and Data Science solutions, and responsible innovations in Gen AI.
 
-## Technical skills
+## Technical skills 👩🏻‍💻
 - Programming - Python, C#, C++
 - Data Science - SQL, Machine Learning, Data Visualization, Tableau Dashboards
 - AI - Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector databases, Neo4j, Neural networks
 - Computer Vision - Image processing, OpenCV, Tensorflow
 - Full stack development - CI/CD, Cloud platforms (Azure, AWS, Google Cloud), FastAPI, Streamlit
 
-## Projects
+## Projects 💡
 **LLM Evaluation for AI in Education**   
 Built evaluation pipeline to ensure factuality of LLM-generated content in Education, using evaluation metrics, named entity
 recognition and LLM judge with Azure OpenAI model to classify responses and flag hallucinations, achieved 96% accuracy  
