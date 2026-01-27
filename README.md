@@ -5,7 +5,7 @@ I'm passionate about building impactful Data Science solutions and responsible A
 
 ## Technical skills 👩🏻‍💻
 - Programming - Python, C#, C++
-- Data Science - SQL, Machine Learning, Data Visualization, Tableau Dashboards
+- Data Science - SQL, Machine Learning, Data Visualization, Tableau 
 - AI - Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector databases, Neo4j, Neural networks
 - Computer Vision - Image processing, OpenCV, Tensorflow
 - Full stack development - CI/CD, Cloud platforms (Azure, AWS, Google Cloud), FastAPI, Streamlit
