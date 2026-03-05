@@ -16,7 +16,7 @@ Built evaluation pipeline to ensure factuality of LLM-generated content in Educa
 recognition and LLM judge with Azure OpenAI model to classify responses and flag hallucinations, achieved 96% accuracy  
 [Project link](https://github.com/AksharaRgsu2024/LLM_Factuality_Evaluation)
 
-**Personalized Health Coach App**  
+**Personalized Health Coach App**  (Won 2025 TAG Data Science & AI Poster Contest)
 Architected a Health Coach application using Graph RAG with MedlinePlus database for condition diagnosis and multi-agent
 system with short-term and long-term memory for tracking symptoms and providing personalized health recommendations  
 [Project link](https://github.com/AksharaRgsu2024/Personal-Health-Coach)
