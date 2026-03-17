@@ -10,6 +10,8 @@ I'm passionate about building impactful Data Science solutions and responsible A
 - Computer Vision - Image processing, OpenCV, Tensorflow
 - Full stack development - CI/CD, Cloud platforms (Azure, AWS, Google Cloud), FastAPI, Streamlit
 
+**Certifications**: AWS Certified AI Practitioner, Microsoft Azure AI Fundamentals
+
 ## Projects 💡
 **LLM Evaluation for AI in Education**   
 Built evaluation pipeline to ensure factuality of LLM-generated content in Education, using evaluation metrics, named entity
